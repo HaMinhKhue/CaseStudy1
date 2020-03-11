@@ -4,9 +4,12 @@ rightanswerlist=[]
 round=0
 iteration=[]
 
-function refresh() {
-    document.getElementById("image").src = chosen + ".jpg"
+function turnOffNofication() {
     document.getElementById('nofication').innerHTML=''
+}
+function refresh() {
+    document.getElementById("image").src = './images/'+chosen + ".jpg"
+    turnOffNofication()
     document.getElementById('sochucai').innerHTML=chosen.length
     document.getElementById('answer').value=''
 }

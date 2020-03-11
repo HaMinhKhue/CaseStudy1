@@ -15,7 +15,7 @@
     <span id="showscores">Bạn đang có <span id="scores">0</span>/10 điểm"</span>
 <br>
 Nhập đáp án (viết liền, không dấu, <span id="sochucai">4</span> chữ cái):<br>
-<input oninput="turnOffNofication()" id="answer" type="text">
+<input onchange="check()" onclick="turnOffNofication()" id="answer" type="text">
 <button onclick="check()" type="submit">Xác nhận đáp án</button>
 <span id="nofication"></span><br><br>
 <button onclick="previous()">Lùi lại</button>
