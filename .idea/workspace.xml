@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b694ddf-8140-4e15-a357-ded9acf1e03c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addtion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aimo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/aimo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aomua.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/aomua.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baogia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/baogia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bikich.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/bikich.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cacao.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/cacao.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canhdong.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/canhdong.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/congcong.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/congcong.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuphap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/cuphap.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuuvan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/cuuvan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dauthu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/dauthu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhbc.css" beforeDir="false" afterPath="$PROJECT_DIR$/dhbc.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dhbc.html" beforeDir="false" afterPath="$PROJECT_DIR$/dhbc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dhbc.js" beforeDir="false" afterPath="$PROJECT_DIR$/dhbc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/giaotranh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/giaotranh.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homcongduc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/homcongduc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiemchuyen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/kiemchuyen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lenmang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/lenmang.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mahoa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/mahoa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nhaccu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/nhaccu.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nhanduc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/nhanduc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nhatky.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/nhatky.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nhosi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/nhosi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sotroi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/sotroi.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +55,9 @@
       <workItem from="1583890710288" duration="2000" />
       <workItem from="1583890767887" duration="15767000" />
       <workItem from="1583907293126" duration="7000" />
-      <workItem from="1583921921038" duration="2747000" />
+      <workItem from="1583921921038" duration="15419000" />
+      <workItem from="1583975329163" duration="18057000" />
+      <workItem from="1584062074000" duration="6922000" />
     </task>
     <servers />
   </component>
@@ -90,10 +73,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="148" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583783928660" />
-    <state x="477" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1583921922369">
+    <state x="443" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1583975431036">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583921922369" />
+    <state x="443" y="267" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583975431036" />
     <state x="450" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1583802638508">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

@@ -1,5 +1,10 @@
-body{background-color: blueviolet;}
+body{
+    background-color: blueviolet;;
+}
 h2{color: gold}
 #serial{color: red}
 #nofication{color: white}
 #showscores{color: white}
+html,body{
+    height: 100vh;width: 100vw;
+}
