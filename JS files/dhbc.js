@@ -28,7 +28,7 @@ function choosenew() {
 }
 function start() {
     do {
-        playername=prompt('Đăng ký tên người chơi (bắt buộc):')
+        playername=prompt('Đăng ký tên người chơi:')
     } while (playername===null);
     setUpLevel1()
     document.getElementById('start').innerHTML = '';

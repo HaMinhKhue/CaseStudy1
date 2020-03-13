@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b694ddf-8140-4e15-a357-ded9acf1e03c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/addtion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dhbc.css" beforeDir="false" afterPath="$PROJECT_DIR$/dhbc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dhbc.html" beforeDir="false" afterPath="$PROJECT_DIR$/dhbc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dhbc.js" beforeDir="false" afterPath="$PROJECT_DIR$/dhbc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addtion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhbc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhbc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,10 @@
       <workItem from="1583907293126" duration="7000" />
       <workItem from="1583921921038" duration="15419000" />
       <workItem from="1583975329163" duration="18057000" />
-      <workItem from="1584062074000" duration="6922000" />
+      <workItem from="1584062074000" duration="8368000" />
+      <workItem from="1584082150148" duration="189000" />
+      <workItem from="1584082488714" duration="78000" />
+      <workItem from="1584082675934" duration="3571000" />
     </task>
     <servers />
   </component>
@@ -73,10 +75,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="148" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583783928660" />
-    <state x="443" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1583975431036">
+    <state x="443" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1584082681048">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="443" y="267" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583975431036" />
+    <state x="443" y="267" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584082681048" />
     <state x="450" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1583802638508">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
